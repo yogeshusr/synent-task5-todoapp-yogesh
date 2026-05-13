@@ -1,3 +1,7 @@
+LIVE PREVIEW:
+
+https://synent-task5-todo-yogesh.netlify.app/
+
 To-Do List Web App
 
 A simple and responsive To-Do List Web Application built using HTML, CSS, and JavaScript.
